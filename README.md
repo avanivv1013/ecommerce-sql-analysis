@@ -295,7 +295,7 @@ GROUP BY c.city
 ORDER BY avg_order_value DESC;
 ```
 
-![Result](screenshots/Q09_avg_order_value_by_city.png)
+![Result](screenshots/Q09_avg_order_value_by_city..png)
 
 ---
 
