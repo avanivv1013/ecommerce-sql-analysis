@@ -156,7 +156,7 @@ ORDER BY p.price DESC
 LIMIT 5;
 ```
 
-![Result](Q03_top5_expensive_products.png)
+![Result](screenshots/Q03_top5_expensive_products.png)
 
 ---
 
